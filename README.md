@@ -40,4 +40,4 @@ See `schema.sql` and `Project_English_School.png` for full structure.
 ## 👨‍🎓 Author
 
 Vladislav Dobriyan  
-GitHub: [@Desstori15](https://github.com/Desstori15)
+GitHub: [@Dobriy15](https://github.com/Dobriy15)
